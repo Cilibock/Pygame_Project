@@ -5,3 +5,4 @@ SCaawfREEN_HEIGHT = 720
 TITLE_SIZE = 64
 b = 10
 x = 25
+vadim = 'andrey'
